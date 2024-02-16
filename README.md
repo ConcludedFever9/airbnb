@@ -34,7 +34,7 @@ This model achieved a MSE of 5722733838. The reason for this very large MSE is b
 
 Finally, we had sentiment analysis. This was included just to see how popular Airbnb is in the city of Berlin. From the below barchart, we see overwhelming positive feedback.
 
-![Time series predictions](/images/sentiment_dist.jpg.jpg)
+![Time series predictions](/images/sentiment_dist.jpg)
 
 ___
 ## Conclusions 
